@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/formulation-app/static/css/main.645e90dd.css",
+    "main.js": "/formulation-app/static/js/main.8f1d78ae.js",
+    "index.html": "/formulation-app/index.html",
+    "main.645e90dd.css.map": "/formulation-app/static/css/main.645e90dd.css.map",
+    "main.8f1d78ae.js.map": "/formulation-app/static/js/main.8f1d78ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.645e90dd.css",
+    "static/js/main.8f1d78ae.js"
+  ]
+}
